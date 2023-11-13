@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/namgi2386/open_1113_2.git
